@@ -16,4 +16,4 @@ Plot visuals by using Matplotlib/Seaborn data visualization comparing the differ
    ```
    ./main.py
    ```
-   
+*OR upload ipynb file to google colab or jupyter notebook 
